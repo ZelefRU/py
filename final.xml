@@ -1,0 +1,2438 @@
+<offers>
+<offer sku="1001TST">
+	<model>Алиса</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">11123</cityprice>
+		<cityprice cityId="710000000">41123</cityprice>
+		<cityprice cityId="111010000">41123</cityprice>
+		<cityprice cityId="551010000">41123</cityprice>
+		<cityprice cityId="111810000">41123</cityprice>
+		<cityprice cityId="391010000">41123</cityprice>
+		<cityprice cityId="117020100">41123</cityprice>
+		<cityprice cityId="113220100">41123</cityprice>
+		<cityprice cityId="116651100">41123</cityprice>
+		<cityprice cityId="351010000">51123</cityprice>
+		<cityprice cityId="352410000">51123</cityprice>
+		<cityprice cityId="750000000">61123</cityprice>
+		<cityprice cityId="471010000">61123</cityprice>
+		<cityprice cityId="231010000">61123</cityprice>
+		<cityprice cityId="471810000">61123</cityprice>
+		<cityprice cityId="151010000">61123</cityprice>
+		<cityprice cityId="271010000">61123</cityprice>
+		<cityprice cityId="511010000">61123</cityprice>
+		<cityprice cityId="431010000">61123</cityprice>
+		<cityprice cityId="316621100">61123</cityprice>
+		<cityprice cityId="311010000">61123</cityprice>
+		<cityprice cityId="191010000">61123</cityprice>
+		<cityprice cityId="512610000">61123</cityprice>
+		<cityprice cityId="631010000">61123</cityprice>
+		<cityprice cityId="632810000">61123</cityprice>
+		<cityprice cityId="632210000">61123</cityprice>
+		<cityprice cityId="552210000">61123</cityprice>
+		<cityprice cityId="351610000">61123</cityprice>
+		<cityprice cityId="273620100">81123</cityprice>
+		<cityprice cityId="551610000">81123</cityprice>
+		<cityprice cityId="153220100">81123</cityprice>
+		<cityprice cityId="433220100">81123</cityprice>
+		<cityprice cityId="391610000">81123</cityprice>
+		<cityprice cityId="633420100">81123</cityprice>
+		<cityprice cityId="634030100">81123</cityprice>
+		<cityprice cityId="394420100">81123</cityprice>
+		<cityprice cityId="316220100">81123</cityprice>
+		<cityprice cityId="352210000">81123</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1002TST">
+	<model>Алиса</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">222222</cityprice>
+		<cityprice cityId="710000000">252222</cityprice>
+		<cityprice cityId="111010000">252222</cityprice>
+		<cityprice cityId="551010000">252222</cityprice>
+		<cityprice cityId="111810000">252222</cityprice>
+		<cityprice cityId="391010000">252222</cityprice>
+		<cityprice cityId="117020100">252222</cityprice>
+		<cityprice cityId="113220100">252222</cityprice>
+		<cityprice cityId="116651100">252222</cityprice>
+		<cityprice cityId="351010000">262222</cityprice>
+		<cityprice cityId="352410000">262222</cityprice>
+		<cityprice cityId="750000000">272222</cityprice>
+		<cityprice cityId="471010000">272222</cityprice>
+		<cityprice cityId="231010000">272222</cityprice>
+		<cityprice cityId="471810000">272222</cityprice>
+		<cityprice cityId="151010000">272222</cityprice>
+		<cityprice cityId="271010000">272222</cityprice>
+		<cityprice cityId="511010000">272222</cityprice>
+		<cityprice cityId="431010000">272222</cityprice>
+		<cityprice cityId="316621100">272222</cityprice>
+		<cityprice cityId="311010000">272222</cityprice>
+		<cityprice cityId="191010000">272222</cityprice>
+		<cityprice cityId="512610000">272222</cityprice>
+		<cityprice cityId="631010000">272222</cityprice>
+		<cityprice cityId="632810000">272222</cityprice>
+		<cityprice cityId="632210000">272222</cityprice>
+		<cityprice cityId="552210000">272222</cityprice>
+		<cityprice cityId="351610000">272222</cityprice>
+		<cityprice cityId="273620100">292222</cityprice>
+		<cityprice cityId="551610000">292222</cityprice>
+		<cityprice cityId="153220100">292222</cityprice>
+		<cityprice cityId="433220100">292222</cityprice>
+		<cityprice cityId="391610000">292222</cityprice>
+		<cityprice cityId="633420100">292222</cityprice>
+		<cityprice cityId="634030100">292222</cityprice>
+		<cityprice cityId="394420100">292222</cityprice>
+		<cityprice cityId="316220100">292222</cityprice>
+		<cityprice cityId="352210000">292222</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1003TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">333333</cityprice>
+		<cityprice cityId="710000000">363333</cityprice>
+		<cityprice cityId="111010000">363333</cityprice>
+		<cityprice cityId="551010000">363333</cityprice>
+		<cityprice cityId="111810000">363333</cityprice>
+		<cityprice cityId="391010000">363333</cityprice>
+		<cityprice cityId="117020100">363333</cityprice>
+		<cityprice cityId="113220100">363333</cityprice>
+		<cityprice cityId="116651100">363333</cityprice>
+		<cityprice cityId="351010000">373333</cityprice>
+		<cityprice cityId="352410000">373333</cityprice>
+		<cityprice cityId="750000000">383333</cityprice>
+		<cityprice cityId="471010000">383333</cityprice>
+		<cityprice cityId="231010000">383333</cityprice>
+		<cityprice cityId="471810000">383333</cityprice>
+		<cityprice cityId="151010000">383333</cityprice>
+		<cityprice cityId="271010000">383333</cityprice>
+		<cityprice cityId="511010000">383333</cityprice>
+		<cityprice cityId="431010000">383333</cityprice>
+		<cityprice cityId="316621100">383333</cityprice>
+		<cityprice cityId="311010000">383333</cityprice>
+		<cityprice cityId="191010000">383333</cityprice>
+		<cityprice cityId="512610000">383333</cityprice>
+		<cityprice cityId="631010000">383333</cityprice>
+		<cityprice cityId="632810000">383333</cityprice>
+		<cityprice cityId="632210000">383333</cityprice>
+		<cityprice cityId="552210000">383333</cityprice>
+		<cityprice cityId="351610000">383333</cityprice>
+		<cityprice cityId="273620100">403333</cityprice>
+		<cityprice cityId="551610000">403333</cityprice>
+		<cityprice cityId="153220100">403333</cityprice>
+		<cityprice cityId="433220100">403333</cityprice>
+		<cityprice cityId="391610000">403333</cityprice>
+		<cityprice cityId="633420100">403333</cityprice>
+		<cityprice cityId="634030100">403333</cityprice>
+		<cityprice cityId="394420100">403333</cityprice>
+		<cityprice cityId="316220100">403333</cityprice>
+		<cityprice cityId="352210000">403333</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1004TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">444444</cityprice>
+		<cityprice cityId="710000000">474444</cityprice>
+		<cityprice cityId="111010000">474444</cityprice>
+		<cityprice cityId="551010000">474444</cityprice>
+		<cityprice cityId="111810000">474444</cityprice>
+		<cityprice cityId="391010000">474444</cityprice>
+		<cityprice cityId="117020100">474444</cityprice>
+		<cityprice cityId="113220100">474444</cityprice>
+		<cityprice cityId="116651100">474444</cityprice>
+		<cityprice cityId="351010000">484444</cityprice>
+		<cityprice cityId="352410000">484444</cityprice>
+		<cityprice cityId="750000000">494444</cityprice>
+		<cityprice cityId="471010000">494444</cityprice>
+		<cityprice cityId="231010000">494444</cityprice>
+		<cityprice cityId="471810000">494444</cityprice>
+		<cityprice cityId="151010000">494444</cityprice>
+		<cityprice cityId="271010000">494444</cityprice>
+		<cityprice cityId="511010000">494444</cityprice>
+		<cityprice cityId="431010000">494444</cityprice>
+		<cityprice cityId="316621100">494444</cityprice>
+		<cityprice cityId="311010000">494444</cityprice>
+		<cityprice cityId="191010000">494444</cityprice>
+		<cityprice cityId="512610000">494444</cityprice>
+		<cityprice cityId="631010000">494444</cityprice>
+		<cityprice cityId="632810000">494444</cityprice>
+		<cityprice cityId="632210000">494444</cityprice>
+		<cityprice cityId="552210000">494444</cityprice>
+		<cityprice cityId="351610000">494444</cityprice>
+		<cityprice cityId="273620100">514444</cityprice>
+		<cityprice cityId="551610000">514444</cityprice>
+		<cityprice cityId="153220100">514444</cityprice>
+		<cityprice cityId="433220100">514444</cityprice>
+		<cityprice cityId="391610000">514444</cityprice>
+		<cityprice cityId="633420100">514444</cityprice>
+		<cityprice cityId="634030100">514444</cityprice>
+		<cityprice cityId="394420100">514444</cityprice>
+		<cityprice cityId="316220100">514444</cityprice>
+		<cityprice cityId="352210000">514444</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1005TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">555555</cityprice>
+		<cityprice cityId="710000000">585555</cityprice>
+		<cityprice cityId="111010000">585555</cityprice>
+		<cityprice cityId="551010000">585555</cityprice>
+		<cityprice cityId="111810000">585555</cityprice>
+		<cityprice cityId="391010000">585555</cityprice>
+		<cityprice cityId="117020100">585555</cityprice>
+		<cityprice cityId="113220100">585555</cityprice>
+		<cityprice cityId="116651100">585555</cityprice>
+		<cityprice cityId="351010000">595555</cityprice>
+		<cityprice cityId="352410000">595555</cityprice>
+		<cityprice cityId="750000000">605555</cityprice>
+		<cityprice cityId="471010000">605555</cityprice>
+		<cityprice cityId="231010000">605555</cityprice>
+		<cityprice cityId="471810000">605555</cityprice>
+		<cityprice cityId="151010000">605555</cityprice>
+		<cityprice cityId="271010000">605555</cityprice>
+		<cityprice cityId="511010000">605555</cityprice>
+		<cityprice cityId="431010000">605555</cityprice>
+		<cityprice cityId="316621100">605555</cityprice>
+		<cityprice cityId="311010000">605555</cityprice>
+		<cityprice cityId="191010000">605555</cityprice>
+		<cityprice cityId="512610000">605555</cityprice>
+		<cityprice cityId="631010000">605555</cityprice>
+		<cityprice cityId="632810000">605555</cityprice>
+		<cityprice cityId="632210000">605555</cityprice>
+		<cityprice cityId="552210000">605555</cityprice>
+		<cityprice cityId="351610000">605555</cityprice>
+		<cityprice cityId="273620100">625555</cityprice>
+		<cityprice cityId="551610000">625555</cityprice>
+		<cityprice cityId="153220100">625555</cityprice>
+		<cityprice cityId="433220100">625555</cityprice>
+		<cityprice cityId="391610000">625555</cityprice>
+		<cityprice cityId="633420100">625555</cityprice>
+		<cityprice cityId="634030100">625555</cityprice>
+		<cityprice cityId="394420100">625555</cityprice>
+		<cityprice cityId="316220100">625555</cityprice>
+		<cityprice cityId="352210000">625555</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1006TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">666666</cityprice>
+		<cityprice cityId="710000000">696666</cityprice>
+		<cityprice cityId="111010000">696666</cityprice>
+		<cityprice cityId="551010000">696666</cityprice>
+		<cityprice cityId="111810000">696666</cityprice>
+		<cityprice cityId="391010000">696666</cityprice>
+		<cityprice cityId="117020100">696666</cityprice>
+		<cityprice cityId="113220100">696666</cityprice>
+		<cityprice cityId="116651100">696666</cityprice>
+		<cityprice cityId="351010000">706666</cityprice>
+		<cityprice cityId="352410000">706666</cityprice>
+		<cityprice cityId="750000000">716666</cityprice>
+		<cityprice cityId="471010000">716666</cityprice>
+		<cityprice cityId="231010000">716666</cityprice>
+		<cityprice cityId="471810000">716666</cityprice>
+		<cityprice cityId="151010000">716666</cityprice>
+		<cityprice cityId="271010000">716666</cityprice>
+		<cityprice cityId="511010000">716666</cityprice>
+		<cityprice cityId="431010000">716666</cityprice>
+		<cityprice cityId="316621100">716666</cityprice>
+		<cityprice cityId="311010000">716666</cityprice>
+		<cityprice cityId="191010000">716666</cityprice>
+		<cityprice cityId="512610000">716666</cityprice>
+		<cityprice cityId="631010000">716666</cityprice>
+		<cityprice cityId="632810000">716666</cityprice>
+		<cityprice cityId="632210000">716666</cityprice>
+		<cityprice cityId="552210000">716666</cityprice>
+		<cityprice cityId="351610000">716666</cityprice>
+		<cityprice cityId="273620100">736666</cityprice>
+		<cityprice cityId="551610000">736666</cityprice>
+		<cityprice cityId="153220100">736666</cityprice>
+		<cityprice cityId="433220100">736666</cityprice>
+		<cityprice cityId="391610000">736666</cityprice>
+		<cityprice cityId="633420100">736666</cityprice>
+		<cityprice cityId="634030100">736666</cityprice>
+		<cityprice cityId="394420100">736666</cityprice>
+		<cityprice cityId="316220100">736666</cityprice>
+		<cityprice cityId="352210000">736666</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1007TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">777777</cityprice>
+		<cityprice cityId="710000000">807777</cityprice>
+		<cityprice cityId="111010000">807777</cityprice>
+		<cityprice cityId="551010000">807777</cityprice>
+		<cityprice cityId="111810000">807777</cityprice>
+		<cityprice cityId="391010000">807777</cityprice>
+		<cityprice cityId="117020100">807777</cityprice>
+		<cityprice cityId="113220100">807777</cityprice>
+		<cityprice cityId="116651100">807777</cityprice>
+		<cityprice cityId="351010000">817777</cityprice>
+		<cityprice cityId="352410000">817777</cityprice>
+		<cityprice cityId="750000000">827777</cityprice>
+		<cityprice cityId="471010000">827777</cityprice>
+		<cityprice cityId="231010000">827777</cityprice>
+		<cityprice cityId="471810000">827777</cityprice>
+		<cityprice cityId="151010000">827777</cityprice>
+		<cityprice cityId="271010000">827777</cityprice>
+		<cityprice cityId="511010000">827777</cityprice>
+		<cityprice cityId="431010000">827777</cityprice>
+		<cityprice cityId="316621100">827777</cityprice>
+		<cityprice cityId="311010000">827777</cityprice>
+		<cityprice cityId="191010000">827777</cityprice>
+		<cityprice cityId="512610000">827777</cityprice>
+		<cityprice cityId="631010000">827777</cityprice>
+		<cityprice cityId="632810000">827777</cityprice>
+		<cityprice cityId="632210000">827777</cityprice>
+		<cityprice cityId="552210000">827777</cityprice>
+		<cityprice cityId="351610000">827777</cityprice>
+		<cityprice cityId="273620100">847777</cityprice>
+		<cityprice cityId="551610000">847777</cityprice>
+		<cityprice cityId="153220100">847777</cityprice>
+		<cityprice cityId="433220100">847777</cityprice>
+		<cityprice cityId="391610000">847777</cityprice>
+		<cityprice cityId="633420100">847777</cityprice>
+		<cityprice cityId="634030100">847777</cityprice>
+		<cityprice cityId="394420100">847777</cityprice>
+		<cityprice cityId="316220100">847777</cityprice>
+		<cityprice cityId="352210000">847777</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1008TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">888888</cityprice>
+		<cityprice cityId="710000000">918888</cityprice>
+		<cityprice cityId="111010000">918888</cityprice>
+		<cityprice cityId="551010000">918888</cityprice>
+		<cityprice cityId="111810000">918888</cityprice>
+		<cityprice cityId="391010000">918888</cityprice>
+		<cityprice cityId="117020100">918888</cityprice>
+		<cityprice cityId="113220100">918888</cityprice>
+		<cityprice cityId="116651100">918888</cityprice>
+		<cityprice cityId="351010000">928888</cityprice>
+		<cityprice cityId="352410000">928888</cityprice>
+		<cityprice cityId="750000000">938888</cityprice>
+		<cityprice cityId="471010000">938888</cityprice>
+		<cityprice cityId="231010000">938888</cityprice>
+		<cityprice cityId="471810000">938888</cityprice>
+		<cityprice cityId="151010000">938888</cityprice>
+		<cityprice cityId="271010000">938888</cityprice>
+		<cityprice cityId="511010000">938888</cityprice>
+		<cityprice cityId="431010000">938888</cityprice>
+		<cityprice cityId="316621100">938888</cityprice>
+		<cityprice cityId="311010000">938888</cityprice>
+		<cityprice cityId="191010000">938888</cityprice>
+		<cityprice cityId="512610000">938888</cityprice>
+		<cityprice cityId="631010000">938888</cityprice>
+		<cityprice cityId="632810000">938888</cityprice>
+		<cityprice cityId="632210000">938888</cityprice>
+		<cityprice cityId="552210000">938888</cityprice>
+		<cityprice cityId="351610000">938888</cityprice>
+		<cityprice cityId="273620100">958888</cityprice>
+		<cityprice cityId="551610000">958888</cityprice>
+		<cityprice cityId="153220100">958888</cityprice>
+		<cityprice cityId="433220100">958888</cityprice>
+		<cityprice cityId="391610000">958888</cityprice>
+		<cityprice cityId="633420100">958888</cityprice>
+		<cityprice cityId="634030100">958888</cityprice>
+		<cityprice cityId="394420100">958888</cityprice>
+		<cityprice cityId="316220100">958888</cityprice>
+		<cityprice cityId="352210000">958888</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1009TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">999999</cityprice>
+		<cityprice cityId="710000000">1029999</cityprice>
+		<cityprice cityId="111010000">1029999</cityprice>
+		<cityprice cityId="551010000">1029999</cityprice>
+		<cityprice cityId="111810000">1029999</cityprice>
+		<cityprice cityId="391010000">1029999</cityprice>
+		<cityprice cityId="117020100">1029999</cityprice>
+		<cityprice cityId="113220100">1029999</cityprice>
+		<cityprice cityId="116651100">1029999</cityprice>
+		<cityprice cityId="351010000">1039999</cityprice>
+		<cityprice cityId="352410000">1039999</cityprice>
+		<cityprice cityId="750000000">1049999</cityprice>
+		<cityprice cityId="471010000">1049999</cityprice>
+		<cityprice cityId="231010000">1049999</cityprice>
+		<cityprice cityId="471810000">1049999</cityprice>
+		<cityprice cityId="151010000">1049999</cityprice>
+		<cityprice cityId="271010000">1049999</cityprice>
+		<cityprice cityId="511010000">1049999</cityprice>
+		<cityprice cityId="431010000">1049999</cityprice>
+		<cityprice cityId="316621100">1049999</cityprice>
+		<cityprice cityId="311010000">1049999</cityprice>
+		<cityprice cityId="191010000">1049999</cityprice>
+		<cityprice cityId="512610000">1049999</cityprice>
+		<cityprice cityId="631010000">1049999</cityprice>
+		<cityprice cityId="632810000">1049999</cityprice>
+		<cityprice cityId="632210000">1049999</cityprice>
+		<cityprice cityId="552210000">1049999</cityprice>
+		<cityprice cityId="351610000">1049999</cityprice>
+		<cityprice cityId="273620100">1069999</cityprice>
+		<cityprice cityId="551610000">1069999</cityprice>
+		<cityprice cityId="153220100">1069999</cityprice>
+		<cityprice cityId="433220100">1069999</cityprice>
+		<cityprice cityId="391610000">1069999</cityprice>
+		<cityprice cityId="633420100">1069999</cityprice>
+		<cityprice cityId="634030100">1069999</cityprice>
+		<cityprice cityId="394420100">1069999</cityprice>
+		<cityprice cityId="316220100">1069999</cityprice>
+		<cityprice cityId="352210000">1069999</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1010TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">11123</cityprice>
+		<cityprice cityId="710000000">41123</cityprice>
+		<cityprice cityId="111010000">41123</cityprice>
+		<cityprice cityId="551010000">41123</cityprice>
+		<cityprice cityId="111810000">41123</cityprice>
+		<cityprice cityId="391010000">41123</cityprice>
+		<cityprice cityId="117020100">41123</cityprice>
+		<cityprice cityId="113220100">41123</cityprice>
+		<cityprice cityId="116651100">41123</cityprice>
+		<cityprice cityId="351010000">51123</cityprice>
+		<cityprice cityId="352410000">51123</cityprice>
+		<cityprice cityId="750000000">61123</cityprice>
+		<cityprice cityId="471010000">61123</cityprice>
+		<cityprice cityId="231010000">61123</cityprice>
+		<cityprice cityId="471810000">61123</cityprice>
+		<cityprice cityId="151010000">61123</cityprice>
+		<cityprice cityId="271010000">61123</cityprice>
+		<cityprice cityId="511010000">61123</cityprice>
+		<cityprice cityId="431010000">61123</cityprice>
+		<cityprice cityId="316621100">61123</cityprice>
+		<cityprice cityId="311010000">61123</cityprice>
+		<cityprice cityId="191010000">61123</cityprice>
+		<cityprice cityId="512610000">61123</cityprice>
+		<cityprice cityId="631010000">61123</cityprice>
+		<cityprice cityId="632810000">61123</cityprice>
+		<cityprice cityId="632210000">61123</cityprice>
+		<cityprice cityId="552210000">61123</cityprice>
+		<cityprice cityId="351610000">61123</cityprice>
+		<cityprice cityId="273620100">81123</cityprice>
+		<cityprice cityId="551610000">81123</cityprice>
+		<cityprice cityId="153220100">81123</cityprice>
+		<cityprice cityId="433220100">81123</cityprice>
+		<cityprice cityId="391610000">81123</cityprice>
+		<cityprice cityId="633420100">81123</cityprice>
+		<cityprice cityId="634030100">81123</cityprice>
+		<cityprice cityId="394420100">81123</cityprice>
+		<cityprice cityId="316220100">81123</cityprice>
+		<cityprice cityId="352210000">81123</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1011TST">
+	<model>Бриз</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">222222</cityprice>
+		<cityprice cityId="710000000">252222</cityprice>
+		<cityprice cityId="111010000">252222</cityprice>
+		<cityprice cityId="551010000">252222</cityprice>
+		<cityprice cityId="111810000">252222</cityprice>
+		<cityprice cityId="391010000">252222</cityprice>
+		<cityprice cityId="117020100">252222</cityprice>
+		<cityprice cityId="113220100">252222</cityprice>
+		<cityprice cityId="116651100">252222</cityprice>
+		<cityprice cityId="351010000">262222</cityprice>
+		<cityprice cityId="352410000">262222</cityprice>
+		<cityprice cityId="750000000">272222</cityprice>
+		<cityprice cityId="471010000">272222</cityprice>
+		<cityprice cityId="231010000">272222</cityprice>
+		<cityprice cityId="471810000">272222</cityprice>
+		<cityprice cityId="151010000">272222</cityprice>
+		<cityprice cityId="271010000">272222</cityprice>
+		<cityprice cityId="511010000">272222</cityprice>
+		<cityprice cityId="431010000">272222</cityprice>
+		<cityprice cityId="316621100">272222</cityprice>
+		<cityprice cityId="311010000">272222</cityprice>
+		<cityprice cityId="191010000">272222</cityprice>
+		<cityprice cityId="512610000">272222</cityprice>
+		<cityprice cityId="631010000">272222</cityprice>
+		<cityprice cityId="632810000">272222</cityprice>
+		<cityprice cityId="632210000">272222</cityprice>
+		<cityprice cityId="552210000">272222</cityprice>
+		<cityprice cityId="351610000">272222</cityprice>
+		<cityprice cityId="273620100">292222</cityprice>
+		<cityprice cityId="551610000">292222</cityprice>
+		<cityprice cityId="153220100">292222</cityprice>
+		<cityprice cityId="433220100">292222</cityprice>
+		<cityprice cityId="391610000">292222</cityprice>
+		<cityprice cityId="633420100">292222</cityprice>
+		<cityprice cityId="634030100">292222</cityprice>
+		<cityprice cityId="394420100">292222</cityprice>
+		<cityprice cityId="316220100">292222</cityprice>
+		<cityprice cityId="352210000">292222</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1012TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">333333</cityprice>
+		<cityprice cityId="710000000">363333</cityprice>
+		<cityprice cityId="111010000">363333</cityprice>
+		<cityprice cityId="551010000">363333</cityprice>
+		<cityprice cityId="111810000">363333</cityprice>
+		<cityprice cityId="391010000">363333</cityprice>
+		<cityprice cityId="117020100">363333</cityprice>
+		<cityprice cityId="113220100">363333</cityprice>
+		<cityprice cityId="116651100">363333</cityprice>
+		<cityprice cityId="351010000">373333</cityprice>
+		<cityprice cityId="352410000">373333</cityprice>
+		<cityprice cityId="750000000">383333</cityprice>
+		<cityprice cityId="471010000">383333</cityprice>
+		<cityprice cityId="231010000">383333</cityprice>
+		<cityprice cityId="471810000">383333</cityprice>
+		<cityprice cityId="151010000">383333</cityprice>
+		<cityprice cityId="271010000">383333</cityprice>
+		<cityprice cityId="511010000">383333</cityprice>
+		<cityprice cityId="431010000">383333</cityprice>
+		<cityprice cityId="316621100">383333</cityprice>
+		<cityprice cityId="311010000">383333</cityprice>
+		<cityprice cityId="191010000">383333</cityprice>
+		<cityprice cityId="512610000">383333</cityprice>
+		<cityprice cityId="631010000">383333</cityprice>
+		<cityprice cityId="632810000">383333</cityprice>
+		<cityprice cityId="632210000">383333</cityprice>
+		<cityprice cityId="552210000">383333</cityprice>
+		<cityprice cityId="351610000">383333</cityprice>
+		<cityprice cityId="273620100">403333</cityprice>
+		<cityprice cityId="551610000">403333</cityprice>
+		<cityprice cityId="153220100">403333</cityprice>
+		<cityprice cityId="433220100">403333</cityprice>
+		<cityprice cityId="391610000">403333</cityprice>
+		<cityprice cityId="633420100">403333</cityprice>
+		<cityprice cityId="634030100">403333</cityprice>
+		<cityprice cityId="394420100">403333</cityprice>
+		<cityprice cityId="316220100">403333</cityprice>
+		<cityprice cityId="352210000">403333</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1013TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">444444</cityprice>
+		<cityprice cityId="710000000">474444</cityprice>
+		<cityprice cityId="111010000">474444</cityprice>
+		<cityprice cityId="551010000">474444</cityprice>
+		<cityprice cityId="111810000">474444</cityprice>
+		<cityprice cityId="391010000">474444</cityprice>
+		<cityprice cityId="117020100">474444</cityprice>
+		<cityprice cityId="113220100">474444</cityprice>
+		<cityprice cityId="116651100">474444</cityprice>
+		<cityprice cityId="351010000">484444</cityprice>
+		<cityprice cityId="352410000">484444</cityprice>
+		<cityprice cityId="750000000">494444</cityprice>
+		<cityprice cityId="471010000">494444</cityprice>
+		<cityprice cityId="231010000">494444</cityprice>
+		<cityprice cityId="471810000">494444</cityprice>
+		<cityprice cityId="151010000">494444</cityprice>
+		<cityprice cityId="271010000">494444</cityprice>
+		<cityprice cityId="511010000">494444</cityprice>
+		<cityprice cityId="431010000">494444</cityprice>
+		<cityprice cityId="316621100">494444</cityprice>
+		<cityprice cityId="311010000">494444</cityprice>
+		<cityprice cityId="191010000">494444</cityprice>
+		<cityprice cityId="512610000">494444</cityprice>
+		<cityprice cityId="631010000">494444</cityprice>
+		<cityprice cityId="632810000">494444</cityprice>
+		<cityprice cityId="632210000">494444</cityprice>
+		<cityprice cityId="552210000">494444</cityprice>
+		<cityprice cityId="351610000">494444</cityprice>
+		<cityprice cityId="273620100">514444</cityprice>
+		<cityprice cityId="551610000">514444</cityprice>
+		<cityprice cityId="153220100">514444</cityprice>
+		<cityprice cityId="433220100">514444</cityprice>
+		<cityprice cityId="391610000">514444</cityprice>
+		<cityprice cityId="633420100">514444</cityprice>
+		<cityprice cityId="634030100">514444</cityprice>
+		<cityprice cityId="394420100">514444</cityprice>
+		<cityprice cityId="316220100">514444</cityprice>
+		<cityprice cityId="352210000">514444</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1014TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">555555</cityprice>
+		<cityprice cityId="710000000">585555</cityprice>
+		<cityprice cityId="111010000">585555</cityprice>
+		<cityprice cityId="551010000">585555</cityprice>
+		<cityprice cityId="111810000">585555</cityprice>
+		<cityprice cityId="391010000">585555</cityprice>
+		<cityprice cityId="117020100">585555</cityprice>
+		<cityprice cityId="113220100">585555</cityprice>
+		<cityprice cityId="116651100">585555</cityprice>
+		<cityprice cityId="351010000">595555</cityprice>
+		<cityprice cityId="352410000">595555</cityprice>
+		<cityprice cityId="750000000">605555</cityprice>
+		<cityprice cityId="471010000">605555</cityprice>
+		<cityprice cityId="231010000">605555</cityprice>
+		<cityprice cityId="471810000">605555</cityprice>
+		<cityprice cityId="151010000">605555</cityprice>
+		<cityprice cityId="271010000">605555</cityprice>
+		<cityprice cityId="511010000">605555</cityprice>
+		<cityprice cityId="431010000">605555</cityprice>
+		<cityprice cityId="316621100">605555</cityprice>
+		<cityprice cityId="311010000">605555</cityprice>
+		<cityprice cityId="191010000">605555</cityprice>
+		<cityprice cityId="512610000">605555</cityprice>
+		<cityprice cityId="631010000">605555</cityprice>
+		<cityprice cityId="632810000">605555</cityprice>
+		<cityprice cityId="632210000">605555</cityprice>
+		<cityprice cityId="552210000">605555</cityprice>
+		<cityprice cityId="351610000">605555</cityprice>
+		<cityprice cityId="273620100">625555</cityprice>
+		<cityprice cityId="551610000">625555</cityprice>
+		<cityprice cityId="153220100">625555</cityprice>
+		<cityprice cityId="433220100">625555</cityprice>
+		<cityprice cityId="391610000">625555</cityprice>
+		<cityprice cityId="633420100">625555</cityprice>
+		<cityprice cityId="634030100">625555</cityprice>
+		<cityprice cityId="394420100">625555</cityprice>
+		<cityprice cityId="316220100">625555</cityprice>
+		<cityprice cityId="352210000">625555</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1015TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">666666</cityprice>
+		<cityprice cityId="710000000">696666</cityprice>
+		<cityprice cityId="111010000">696666</cityprice>
+		<cityprice cityId="551010000">696666</cityprice>
+		<cityprice cityId="111810000">696666</cityprice>
+		<cityprice cityId="391010000">696666</cityprice>
+		<cityprice cityId="117020100">696666</cityprice>
+		<cityprice cityId="113220100">696666</cityprice>
+		<cityprice cityId="116651100">696666</cityprice>
+		<cityprice cityId="351010000">706666</cityprice>
+		<cityprice cityId="352410000">706666</cityprice>
+		<cityprice cityId="750000000">716666</cityprice>
+		<cityprice cityId="471010000">716666</cityprice>
+		<cityprice cityId="231010000">716666</cityprice>
+		<cityprice cityId="471810000">716666</cityprice>
+		<cityprice cityId="151010000">716666</cityprice>
+		<cityprice cityId="271010000">716666</cityprice>
+		<cityprice cityId="511010000">716666</cityprice>
+		<cityprice cityId="431010000">716666</cityprice>
+		<cityprice cityId="316621100">716666</cityprice>
+		<cityprice cityId="311010000">716666</cityprice>
+		<cityprice cityId="191010000">716666</cityprice>
+		<cityprice cityId="512610000">716666</cityprice>
+		<cityprice cityId="631010000">716666</cityprice>
+		<cityprice cityId="632810000">716666</cityprice>
+		<cityprice cityId="632210000">716666</cityprice>
+		<cityprice cityId="552210000">716666</cityprice>
+		<cityprice cityId="351610000">716666</cityprice>
+		<cityprice cityId="273620100">736666</cityprice>
+		<cityprice cityId="551610000">736666</cityprice>
+		<cityprice cityId="153220100">736666</cityprice>
+		<cityprice cityId="433220100">736666</cityprice>
+		<cityprice cityId="391610000">736666</cityprice>
+		<cityprice cityId="633420100">736666</cityprice>
+		<cityprice cityId="634030100">736666</cityprice>
+		<cityprice cityId="394420100">736666</cityprice>
+		<cityprice cityId="316220100">736666</cityprice>
+		<cityprice cityId="352210000">736666</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1016TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">777777</cityprice>
+		<cityprice cityId="710000000">807777</cityprice>
+		<cityprice cityId="111010000">807777</cityprice>
+		<cityprice cityId="551010000">807777</cityprice>
+		<cityprice cityId="111810000">807777</cityprice>
+		<cityprice cityId="391010000">807777</cityprice>
+		<cityprice cityId="117020100">807777</cityprice>
+		<cityprice cityId="113220100">807777</cityprice>
+		<cityprice cityId="116651100">807777</cityprice>
+		<cityprice cityId="351010000">817777</cityprice>
+		<cityprice cityId="352410000">817777</cityprice>
+		<cityprice cityId="750000000">827777</cityprice>
+		<cityprice cityId="471010000">827777</cityprice>
+		<cityprice cityId="231010000">827777</cityprice>
+		<cityprice cityId="471810000">827777</cityprice>
+		<cityprice cityId="151010000">827777</cityprice>
+		<cityprice cityId="271010000">827777</cityprice>
+		<cityprice cityId="511010000">827777</cityprice>
+		<cityprice cityId="431010000">827777</cityprice>
+		<cityprice cityId="316621100">827777</cityprice>
+		<cityprice cityId="311010000">827777</cityprice>
+		<cityprice cityId="191010000">827777</cityprice>
+		<cityprice cityId="512610000">827777</cityprice>
+		<cityprice cityId="631010000">827777</cityprice>
+		<cityprice cityId="632810000">827777</cityprice>
+		<cityprice cityId="632210000">827777</cityprice>
+		<cityprice cityId="552210000">827777</cityprice>
+		<cityprice cityId="351610000">827777</cityprice>
+		<cityprice cityId="273620100">847777</cityprice>
+		<cityprice cityId="551610000">847777</cityprice>
+		<cityprice cityId="153220100">847777</cityprice>
+		<cityprice cityId="433220100">847777</cityprice>
+		<cityprice cityId="391610000">847777</cityprice>
+		<cityprice cityId="633420100">847777</cityprice>
+		<cityprice cityId="634030100">847777</cityprice>
+		<cityprice cityId="394420100">847777</cityprice>
+		<cityprice cityId="316220100">847777</cityprice>
+		<cityprice cityId="352210000">847777</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1017TST">
+	<model>Лондон</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">888888</cityprice>
+		<cityprice cityId="710000000">918888</cityprice>
+		<cityprice cityId="111010000">918888</cityprice>
+		<cityprice cityId="551010000">918888</cityprice>
+		<cityprice cityId="111810000">918888</cityprice>
+		<cityprice cityId="391010000">918888</cityprice>
+		<cityprice cityId="117020100">918888</cityprice>
+		<cityprice cityId="113220100">918888</cityprice>
+		<cityprice cityId="116651100">918888</cityprice>
+		<cityprice cityId="351010000">928888</cityprice>
+		<cityprice cityId="352410000">928888</cityprice>
+		<cityprice cityId="750000000">938888</cityprice>
+		<cityprice cityId="471010000">938888</cityprice>
+		<cityprice cityId="231010000">938888</cityprice>
+		<cityprice cityId="471810000">938888</cityprice>
+		<cityprice cityId="151010000">938888</cityprice>
+		<cityprice cityId="271010000">938888</cityprice>
+		<cityprice cityId="511010000">938888</cityprice>
+		<cityprice cityId="431010000">938888</cityprice>
+		<cityprice cityId="316621100">938888</cityprice>
+		<cityprice cityId="311010000">938888</cityprice>
+		<cityprice cityId="191010000">938888</cityprice>
+		<cityprice cityId="512610000">938888</cityprice>
+		<cityprice cityId="631010000">938888</cityprice>
+		<cityprice cityId="632810000">938888</cityprice>
+		<cityprice cityId="632210000">938888</cityprice>
+		<cityprice cityId="552210000">938888</cityprice>
+		<cityprice cityId="351610000">938888</cityprice>
+		<cityprice cityId="273620100">958888</cityprice>
+		<cityprice cityId="551610000">958888</cityprice>
+		<cityprice cityId="153220100">958888</cityprice>
+		<cityprice cityId="433220100">958888</cityprice>
+		<cityprice cityId="391610000">958888</cityprice>
+		<cityprice cityId="633420100">958888</cityprice>
+		<cityprice cityId="634030100">958888</cityprice>
+		<cityprice cityId="394420100">958888</cityprice>
+		<cityprice cityId="316220100">958888</cityprice>
+		<cityprice cityId="352210000">958888</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1018TST">
+	<model>Париж</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">999999</cityprice>
+		<cityprice cityId="710000000">1029999</cityprice>
+		<cityprice cityId="111010000">1029999</cityprice>
+		<cityprice cityId="551010000">1029999</cityprice>
+		<cityprice cityId="111810000">1029999</cityprice>
+		<cityprice cityId="391010000">1029999</cityprice>
+		<cityprice cityId="117020100">1029999</cityprice>
+		<cityprice cityId="113220100">1029999</cityprice>
+		<cityprice cityId="116651100">1029999</cityprice>
+		<cityprice cityId="351010000">1039999</cityprice>
+		<cityprice cityId="352410000">1039999</cityprice>
+		<cityprice cityId="750000000">1049999</cityprice>
+		<cityprice cityId="471010000">1049999</cityprice>
+		<cityprice cityId="231010000">1049999</cityprice>
+		<cityprice cityId="471810000">1049999</cityprice>
+		<cityprice cityId="151010000">1049999</cityprice>
+		<cityprice cityId="271010000">1049999</cityprice>
+		<cityprice cityId="511010000">1049999</cityprice>
+		<cityprice cityId="431010000">1049999</cityprice>
+		<cityprice cityId="316621100">1049999</cityprice>
+		<cityprice cityId="311010000">1049999</cityprice>
+		<cityprice cityId="191010000">1049999</cityprice>
+		<cityprice cityId="512610000">1049999</cityprice>
+		<cityprice cityId="631010000">1049999</cityprice>
+		<cityprice cityId="632810000">1049999</cityprice>
+		<cityprice cityId="632210000">1049999</cityprice>
+		<cityprice cityId="552210000">1049999</cityprice>
+		<cityprice cityId="351610000">1049999</cityprice>
+		<cityprice cityId="273620100">1069999</cityprice>
+		<cityprice cityId="551610000">1069999</cityprice>
+		<cityprice cityId="153220100">1069999</cityprice>
+		<cityprice cityId="433220100">1069999</cityprice>
+		<cityprice cityId="391610000">1069999</cityprice>
+		<cityprice cityId="633420100">1069999</cityprice>
+		<cityprice cityId="634030100">1069999</cityprice>
+		<cityprice cityId="394420100">1069999</cityprice>
+		<cityprice cityId="316220100">1069999</cityprice>
+		<cityprice cityId="352210000">1069999</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1019TST">
+	<model>Париж</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">11123</cityprice>
+		<cityprice cityId="710000000">41123</cityprice>
+		<cityprice cityId="111010000">41123</cityprice>
+		<cityprice cityId="551010000">41123</cityprice>
+		<cityprice cityId="111810000">41123</cityprice>
+		<cityprice cityId="391010000">41123</cityprice>
+		<cityprice cityId="117020100">41123</cityprice>
+		<cityprice cityId="113220100">41123</cityprice>
+		<cityprice cityId="116651100">41123</cityprice>
+		<cityprice cityId="351010000">51123</cityprice>
+		<cityprice cityId="352410000">51123</cityprice>
+		<cityprice cityId="750000000">61123</cityprice>
+		<cityprice cityId="471010000">61123</cityprice>
+		<cityprice cityId="231010000">61123</cityprice>
+		<cityprice cityId="471810000">61123</cityprice>
+		<cityprice cityId="151010000">61123</cityprice>
+		<cityprice cityId="271010000">61123</cityprice>
+		<cityprice cityId="511010000">61123</cityprice>
+		<cityprice cityId="431010000">61123</cityprice>
+		<cityprice cityId="316621100">61123</cityprice>
+		<cityprice cityId="311010000">61123</cityprice>
+		<cityprice cityId="191010000">61123</cityprice>
+		<cityprice cityId="512610000">61123</cityprice>
+		<cityprice cityId="631010000">61123</cityprice>
+		<cityprice cityId="632810000">61123</cityprice>
+		<cityprice cityId="632210000">61123</cityprice>
+		<cityprice cityId="552210000">61123</cityprice>
+		<cityprice cityId="351610000">61123</cityprice>
+		<cityprice cityId="273620100">81123</cityprice>
+		<cityprice cityId="551610000">81123</cityprice>
+		<cityprice cityId="153220100">81123</cityprice>
+		<cityprice cityId="433220100">81123</cityprice>
+		<cityprice cityId="391610000">81123</cityprice>
+		<cityprice cityId="633420100">81123</cityprice>
+		<cityprice cityId="634030100">81123</cityprice>
+		<cityprice cityId="394420100">81123</cityprice>
+		<cityprice cityId="316220100">81123</cityprice>
+		<cityprice cityId="352210000">81123</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1020TST">
+	<model>Париж</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">222222</cityprice>
+		<cityprice cityId="710000000">252222</cityprice>
+		<cityprice cityId="111010000">252222</cityprice>
+		<cityprice cityId="551010000">252222</cityprice>
+		<cityprice cityId="111810000">252222</cityprice>
+		<cityprice cityId="391010000">252222</cityprice>
+		<cityprice cityId="117020100">252222</cityprice>
+		<cityprice cityId="113220100">252222</cityprice>
+		<cityprice cityId="116651100">252222</cityprice>
+		<cityprice cityId="351010000">262222</cityprice>
+		<cityprice cityId="352410000">262222</cityprice>
+		<cityprice cityId="750000000">272222</cityprice>
+		<cityprice cityId="471010000">272222</cityprice>
+		<cityprice cityId="231010000">272222</cityprice>
+		<cityprice cityId="471810000">272222</cityprice>
+		<cityprice cityId="151010000">272222</cityprice>
+		<cityprice cityId="271010000">272222</cityprice>
+		<cityprice cityId="511010000">272222</cityprice>
+		<cityprice cityId="431010000">272222</cityprice>
+		<cityprice cityId="316621100">272222</cityprice>
+		<cityprice cityId="311010000">272222</cityprice>
+		<cityprice cityId="191010000">272222</cityprice>
+		<cityprice cityId="512610000">272222</cityprice>
+		<cityprice cityId="631010000">272222</cityprice>
+		<cityprice cityId="632810000">272222</cityprice>
+		<cityprice cityId="632210000">272222</cityprice>
+		<cityprice cityId="552210000">272222</cityprice>
+		<cityprice cityId="351610000">272222</cityprice>
+		<cityprice cityId="273620100">292222</cityprice>
+		<cityprice cityId="551610000">292222</cityprice>
+		<cityprice cityId="153220100">292222</cityprice>
+		<cityprice cityId="433220100">292222</cityprice>
+		<cityprice cityId="391610000">292222</cityprice>
+		<cityprice cityId="633420100">292222</cityprice>
+		<cityprice cityId="634030100">292222</cityprice>
+		<cityprice cityId="394420100">292222</cityprice>
+		<cityprice cityId="316220100">292222</cityprice>
+		<cityprice cityId="352210000">292222</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1021TST">
+	<model>Париж</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">333333</cityprice>
+		<cityprice cityId="710000000">363333</cityprice>
+		<cityprice cityId="111010000">363333</cityprice>
+		<cityprice cityId="551010000">363333</cityprice>
+		<cityprice cityId="111810000">363333</cityprice>
+		<cityprice cityId="391010000">363333</cityprice>
+		<cityprice cityId="117020100">363333</cityprice>
+		<cityprice cityId="113220100">363333</cityprice>
+		<cityprice cityId="116651100">363333</cityprice>
+		<cityprice cityId="351010000">373333</cityprice>
+		<cityprice cityId="352410000">373333</cityprice>
+		<cityprice cityId="750000000">383333</cityprice>
+		<cityprice cityId="471010000">383333</cityprice>
+		<cityprice cityId="231010000">383333</cityprice>
+		<cityprice cityId="471810000">383333</cityprice>
+		<cityprice cityId="151010000">383333</cityprice>
+		<cityprice cityId="271010000">383333</cityprice>
+		<cityprice cityId="511010000">383333</cityprice>
+		<cityprice cityId="431010000">383333</cityprice>
+		<cityprice cityId="316621100">383333</cityprice>
+		<cityprice cityId="311010000">383333</cityprice>
+		<cityprice cityId="191010000">383333</cityprice>
+		<cityprice cityId="512610000">383333</cityprice>
+		<cityprice cityId="631010000">383333</cityprice>
+		<cityprice cityId="632810000">383333</cityprice>
+		<cityprice cityId="632210000">383333</cityprice>
+		<cityprice cityId="552210000">383333</cityprice>
+		<cityprice cityId="351610000">383333</cityprice>
+		<cityprice cityId="273620100">403333</cityprice>
+		<cityprice cityId="551610000">403333</cityprice>
+		<cityprice cityId="153220100">403333</cityprice>
+		<cityprice cityId="433220100">403333</cityprice>
+		<cityprice cityId="391610000">403333</cityprice>
+		<cityprice cityId="633420100">403333</cityprice>
+		<cityprice cityId="634030100">403333</cityprice>
+		<cityprice cityId="394420100">403333</cityprice>
+		<cityprice cityId="316220100">403333</cityprice>
+		<cityprice cityId="352210000">403333</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1022TST">
+	<model>Футбол</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">444444</cityprice>
+		<cityprice cityId="710000000">474444</cityprice>
+		<cityprice cityId="111010000">474444</cityprice>
+		<cityprice cityId="551010000">474444</cityprice>
+		<cityprice cityId="111810000">474444</cityprice>
+		<cityprice cityId="391010000">474444</cityprice>
+		<cityprice cityId="117020100">474444</cityprice>
+		<cityprice cityId="113220100">474444</cityprice>
+		<cityprice cityId="116651100">474444</cityprice>
+		<cityprice cityId="351010000">484444</cityprice>
+		<cityprice cityId="352410000">484444</cityprice>
+		<cityprice cityId="750000000">494444</cityprice>
+		<cityprice cityId="471010000">494444</cityprice>
+		<cityprice cityId="231010000">494444</cityprice>
+		<cityprice cityId="471810000">494444</cityprice>
+		<cityprice cityId="151010000">494444</cityprice>
+		<cityprice cityId="271010000">494444</cityprice>
+		<cityprice cityId="511010000">494444</cityprice>
+		<cityprice cityId="431010000">494444</cityprice>
+		<cityprice cityId="316621100">494444</cityprice>
+		<cityprice cityId="311010000">494444</cityprice>
+		<cityprice cityId="191010000">494444</cityprice>
+		<cityprice cityId="512610000">494444</cityprice>
+		<cityprice cityId="631010000">494444</cityprice>
+		<cityprice cityId="632810000">494444</cityprice>
+		<cityprice cityId="632210000">494444</cityprice>
+		<cityprice cityId="552210000">494444</cityprice>
+		<cityprice cityId="351610000">494444</cityprice>
+		<cityprice cityId="273620100">514444</cityprice>
+		<cityprice cityId="551610000">514444</cityprice>
+		<cityprice cityId="153220100">514444</cityprice>
+		<cityprice cityId="433220100">514444</cityprice>
+		<cityprice cityId="391610000">514444</cityprice>
+		<cityprice cityId="633420100">514444</cityprice>
+		<cityprice cityId="634030100">514444</cityprice>
+		<cityprice cityId="394420100">514444</cityprice>
+		<cityprice cityId="316220100">514444</cityprice>
+		<cityprice cityId="352210000">514444</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1023TST">
+	<model>Футбол</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">555555</cityprice>
+		<cityprice cityId="710000000">585555</cityprice>
+		<cityprice cityId="111010000">585555</cityprice>
+		<cityprice cityId="551010000">585555</cityprice>
+		<cityprice cityId="111810000">585555</cityprice>
+		<cityprice cityId="391010000">585555</cityprice>
+		<cityprice cityId="117020100">585555</cityprice>
+		<cityprice cityId="113220100">585555</cityprice>
+		<cityprice cityId="116651100">585555</cityprice>
+		<cityprice cityId="351010000">595555</cityprice>
+		<cityprice cityId="352410000">595555</cityprice>
+		<cityprice cityId="750000000">605555</cityprice>
+		<cityprice cityId="471010000">605555</cityprice>
+		<cityprice cityId="231010000">605555</cityprice>
+		<cityprice cityId="471810000">605555</cityprice>
+		<cityprice cityId="151010000">605555</cityprice>
+		<cityprice cityId="271010000">605555</cityprice>
+		<cityprice cityId="511010000">605555</cityprice>
+		<cityprice cityId="431010000">605555</cityprice>
+		<cityprice cityId="316621100">605555</cityprice>
+		<cityprice cityId="311010000">605555</cityprice>
+		<cityprice cityId="191010000">605555</cityprice>
+		<cityprice cityId="512610000">605555</cityprice>
+		<cityprice cityId="631010000">605555</cityprice>
+		<cityprice cityId="632810000">605555</cityprice>
+		<cityprice cityId="632210000">605555</cityprice>
+		<cityprice cityId="552210000">605555</cityprice>
+		<cityprice cityId="351610000">605555</cityprice>
+		<cityprice cityId="273620100">625555</cityprice>
+		<cityprice cityId="551610000">625555</cityprice>
+		<cityprice cityId="153220100">625555</cityprice>
+		<cityprice cityId="433220100">625555</cityprice>
+		<cityprice cityId="391610000">625555</cityprice>
+		<cityprice cityId="633420100">625555</cityprice>
+		<cityprice cityId="634030100">625555</cityprice>
+		<cityprice cityId="394420100">625555</cityprice>
+		<cityprice cityId="316220100">625555</cityprice>
+		<cityprice cityId="352210000">625555</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1024TST">
+	<model>Лайт</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">666666</cityprice>
+		<cityprice cityId="710000000">696666</cityprice>
+		<cityprice cityId="111010000">696666</cityprice>
+		<cityprice cityId="551010000">696666</cityprice>
+		<cityprice cityId="111810000">696666</cityprice>
+		<cityprice cityId="391010000">696666</cityprice>
+		<cityprice cityId="117020100">696666</cityprice>
+		<cityprice cityId="113220100">696666</cityprice>
+		<cityprice cityId="116651100">696666</cityprice>
+		<cityprice cityId="351010000">706666</cityprice>
+		<cityprice cityId="352410000">706666</cityprice>
+		<cityprice cityId="750000000">716666</cityprice>
+		<cityprice cityId="471010000">716666</cityprice>
+		<cityprice cityId="231010000">716666</cityprice>
+		<cityprice cityId="471810000">716666</cityprice>
+		<cityprice cityId="151010000">716666</cityprice>
+		<cityprice cityId="271010000">716666</cityprice>
+		<cityprice cityId="511010000">716666</cityprice>
+		<cityprice cityId="431010000">716666</cityprice>
+		<cityprice cityId="316621100">716666</cityprice>
+		<cityprice cityId="311010000">716666</cityprice>
+		<cityprice cityId="191010000">716666</cityprice>
+		<cityprice cityId="512610000">716666</cityprice>
+		<cityprice cityId="631010000">716666</cityprice>
+		<cityprice cityId="632810000">716666</cityprice>
+		<cityprice cityId="632210000">716666</cityprice>
+		<cityprice cityId="552210000">716666</cityprice>
+		<cityprice cityId="351610000">716666</cityprice>
+		<cityprice cityId="273620100">736666</cityprice>
+		<cityprice cityId="551610000">736666</cityprice>
+		<cityprice cityId="153220100">736666</cityprice>
+		<cityprice cityId="433220100">736666</cityprice>
+		<cityprice cityId="391610000">736666</cityprice>
+		<cityprice cityId="633420100">736666</cityprice>
+		<cityprice cityId="634030100">736666</cityprice>
+		<cityprice cityId="394420100">736666</cityprice>
+		<cityprice cityId="316220100">736666</cityprice>
+		<cityprice cityId="352210000">736666</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1025TST">
+	<model>Лайт</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">777777</cityprice>
+		<cityprice cityId="710000000">807777</cityprice>
+		<cityprice cityId="111010000">807777</cityprice>
+		<cityprice cityId="551010000">807777</cityprice>
+		<cityprice cityId="111810000">807777</cityprice>
+		<cityprice cityId="391010000">807777</cityprice>
+		<cityprice cityId="117020100">807777</cityprice>
+		<cityprice cityId="113220100">807777</cityprice>
+		<cityprice cityId="116651100">807777</cityprice>
+		<cityprice cityId="351010000">817777</cityprice>
+		<cityprice cityId="352410000">817777</cityprice>
+		<cityprice cityId="750000000">827777</cityprice>
+		<cityprice cityId="471010000">827777</cityprice>
+		<cityprice cityId="231010000">827777</cityprice>
+		<cityprice cityId="471810000">827777</cityprice>
+		<cityprice cityId="151010000">827777</cityprice>
+		<cityprice cityId="271010000">827777</cityprice>
+		<cityprice cityId="511010000">827777</cityprice>
+		<cityprice cityId="431010000">827777</cityprice>
+		<cityprice cityId="316621100">827777</cityprice>
+		<cityprice cityId="311010000">827777</cityprice>
+		<cityprice cityId="191010000">827777</cityprice>
+		<cityprice cityId="512610000">827777</cityprice>
+		<cityprice cityId="631010000">827777</cityprice>
+		<cityprice cityId="632810000">827777</cityprice>
+		<cityprice cityId="632210000">827777</cityprice>
+		<cityprice cityId="552210000">827777</cityprice>
+		<cityprice cityId="351610000">827777</cityprice>
+		<cityprice cityId="273620100">847777</cityprice>
+		<cityprice cityId="551610000">847777</cityprice>
+		<cityprice cityId="153220100">847777</cityprice>
+		<cityprice cityId="433220100">847777</cityprice>
+		<cityprice cityId="391610000">847777</cityprice>
+		<cityprice cityId="633420100">847777</cityprice>
+		<cityprice cityId="634030100">847777</cityprice>
+		<cityprice cityId="394420100">847777</cityprice>
+		<cityprice cityId="316220100">847777</cityprice>
+		<cityprice cityId="352210000">847777</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1026TST">
+	<model>Лайт</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">888888</cityprice>
+		<cityprice cityId="710000000">918888</cityprice>
+		<cityprice cityId="111010000">918888</cityprice>
+		<cityprice cityId="551010000">918888</cityprice>
+		<cityprice cityId="111810000">918888</cityprice>
+		<cityprice cityId="391010000">918888</cityprice>
+		<cityprice cityId="117020100">918888</cityprice>
+		<cityprice cityId="113220100">918888</cityprice>
+		<cityprice cityId="116651100">918888</cityprice>
+		<cityprice cityId="351010000">928888</cityprice>
+		<cityprice cityId="352410000">928888</cityprice>
+		<cityprice cityId="750000000">938888</cityprice>
+		<cityprice cityId="471010000">938888</cityprice>
+		<cityprice cityId="231010000">938888</cityprice>
+		<cityprice cityId="471810000">938888</cityprice>
+		<cityprice cityId="151010000">938888</cityprice>
+		<cityprice cityId="271010000">938888</cityprice>
+		<cityprice cityId="511010000">938888</cityprice>
+		<cityprice cityId="431010000">938888</cityprice>
+		<cityprice cityId="316621100">938888</cityprice>
+		<cityprice cityId="311010000">938888</cityprice>
+		<cityprice cityId="191010000">938888</cityprice>
+		<cityprice cityId="512610000">938888</cityprice>
+		<cityprice cityId="631010000">938888</cityprice>
+		<cityprice cityId="632810000">938888</cityprice>
+		<cityprice cityId="632210000">938888</cityprice>
+		<cityprice cityId="552210000">938888</cityprice>
+		<cityprice cityId="351610000">938888</cityprice>
+		<cityprice cityId="273620100">958888</cityprice>
+		<cityprice cityId="551610000">958888</cityprice>
+		<cityprice cityId="153220100">958888</cityprice>
+		<cityprice cityId="433220100">958888</cityprice>
+		<cityprice cityId="391610000">958888</cityprice>
+		<cityprice cityId="633420100">958888</cityprice>
+		<cityprice cityId="634030100">958888</cityprice>
+		<cityprice cityId="394420100">958888</cityprice>
+		<cityprice cityId="316220100">958888</cityprice>
+		<cityprice cityId="352210000">958888</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1027TST">
+	<model>Лайт</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">999999</cityprice>
+		<cityprice cityId="710000000">1029999</cityprice>
+		<cityprice cityId="111010000">1029999</cityprice>
+		<cityprice cityId="551010000">1029999</cityprice>
+		<cityprice cityId="111810000">1029999</cityprice>
+		<cityprice cityId="391010000">1029999</cityprice>
+		<cityprice cityId="117020100">1029999</cityprice>
+		<cityprice cityId="113220100">1029999</cityprice>
+		<cityprice cityId="116651100">1029999</cityprice>
+		<cityprice cityId="351010000">1039999</cityprice>
+		<cityprice cityId="352410000">1039999</cityprice>
+		<cityprice cityId="750000000">1049999</cityprice>
+		<cityprice cityId="471010000">1049999</cityprice>
+		<cityprice cityId="231010000">1049999</cityprice>
+		<cityprice cityId="471810000">1049999</cityprice>
+		<cityprice cityId="151010000">1049999</cityprice>
+		<cityprice cityId="271010000">1049999</cityprice>
+		<cityprice cityId="511010000">1049999</cityprice>
+		<cityprice cityId="431010000">1049999</cityprice>
+		<cityprice cityId="316621100">1049999</cityprice>
+		<cityprice cityId="311010000">1049999</cityprice>
+		<cityprice cityId="191010000">1049999</cityprice>
+		<cityprice cityId="512610000">1049999</cityprice>
+		<cityprice cityId="631010000">1049999</cityprice>
+		<cityprice cityId="632810000">1049999</cityprice>
+		<cityprice cityId="632210000">1049999</cityprice>
+		<cityprice cityId="552210000">1049999</cityprice>
+		<cityprice cityId="351610000">1049999</cityprice>
+		<cityprice cityId="273620100">1069999</cityprice>
+		<cityprice cityId="551610000">1069999</cityprice>
+		<cityprice cityId="153220100">1069999</cityprice>
+		<cityprice cityId="433220100">1069999</cityprice>
+		<cityprice cityId="391610000">1069999</cityprice>
+		<cityprice cityId="633420100">1069999</cityprice>
+		<cityprice cityId="634030100">1069999</cityprice>
+		<cityprice cityId="394420100">1069999</cityprice>
+		<cityprice cityId="316220100">1069999</cityprice>
+		<cityprice cityId="352210000">1069999</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1028TST">
+	<model>Лайт</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">11123</cityprice>
+		<cityprice cityId="710000000">41123</cityprice>
+		<cityprice cityId="111010000">41123</cityprice>
+		<cityprice cityId="551010000">41123</cityprice>
+		<cityprice cityId="111810000">41123</cityprice>
+		<cityprice cityId="391010000">41123</cityprice>
+		<cityprice cityId="117020100">41123</cityprice>
+		<cityprice cityId="113220100">41123</cityprice>
+		<cityprice cityId="116651100">41123</cityprice>
+		<cityprice cityId="351010000">51123</cityprice>
+		<cityprice cityId="352410000">51123</cityprice>
+		<cityprice cityId="750000000">61123</cityprice>
+		<cityprice cityId="471010000">61123</cityprice>
+		<cityprice cityId="231010000">61123</cityprice>
+		<cityprice cityId="471810000">61123</cityprice>
+		<cityprice cityId="151010000">61123</cityprice>
+		<cityprice cityId="271010000">61123</cityprice>
+		<cityprice cityId="511010000">61123</cityprice>
+		<cityprice cityId="431010000">61123</cityprice>
+		<cityprice cityId="316621100">61123</cityprice>
+		<cityprice cityId="311010000">61123</cityprice>
+		<cityprice cityId="191010000">61123</cityprice>
+		<cityprice cityId="512610000">61123</cityprice>
+		<cityprice cityId="631010000">61123</cityprice>
+		<cityprice cityId="632810000">61123</cityprice>
+		<cityprice cityId="632210000">61123</cityprice>
+		<cityprice cityId="552210000">61123</cityprice>
+		<cityprice cityId="351610000">61123</cityprice>
+		<cityprice cityId="273620100">81123</cityprice>
+		<cityprice cityId="551610000">81123</cityprice>
+		<cityprice cityId="153220100">81123</cityprice>
+		<cityprice cityId="433220100">81123</cityprice>
+		<cityprice cityId="391610000">81123</cityprice>
+		<cityprice cityId="633420100">81123</cityprice>
+		<cityprice cityId="634030100">81123</cityprice>
+		<cityprice cityId="394420100">81123</cityprice>
+		<cityprice cityId="316220100">81123</cityprice>
+		<cityprice cityId="352210000">81123</cityprice>
+	</cityprices>
+</offer>
+<offer sku="1029TST">
+	<model>Ультра</model>
+	<brand>Ваша Мебель</brand>
+	<availabilities>
+		<availability available="yes" storeId="PP1" preOrder="20"/>
+		<availability available="yes" storeId="PP2" preOrder="14"/>
+		<availability available="yes" storeId="PP3" preOrder="18"/>
+		<availability available="yes" storeId="PP4" preOrder="18"/>
+		<availability available="yes" storeId="PP5" preOrder="18"/>
+		<availability available="yes" storeId="PP6" preOrder="18"/>
+		<availability available="yes" storeId="PP7" preOrder="18"/>
+		<availability available="yes" storeId="PP8" preOrder="18"/>
+		<availability available="yes" storeId="PP9" preOrder="18"/>
+		<availability available="yes" storeId="PP10" preOrder="18"/>
+		<availability available="yes" storeId="PP11" preOrder="18"/>
+		<availability available="yes" storeId="PP12" preOrder="20"/>
+		<availability available="yes" storeId="PP13" preOrder="18"/>
+		<availability available="yes" storeId="PP37" preOrder="20"/>
+		<availability available="yes" storeId="PP15" preOrder="20"/>
+		<availability available="yes" storeId="PP16" preOrder="20"/>
+		<availability available="yes" storeId="PP17" preOrder="20"/>
+		<availability available="yes" storeId="PP18" preOrder="20"/>
+		<availability available="yes" storeId="PP19" preOrder="20"/>
+		<availability available="yes" storeId="PP20" preOrder="20"/>
+		<availability available="yes" storeId="PP21" preOrder="20"/>
+		<availability available="yes" storeId="PP22" preOrder="20"/>
+		<availability available="yes" storeId="PP23" preOrder="20"/>
+		<availability available="yes" storeId="PP24" preOrder="20"/>
+		<availability available="yes" storeId="PP25" preOrder="20"/>
+		<availability available="yes" storeId="PP26" preOrder="20"/>
+		<availability available="yes" storeId="PP27" preOrder="20"/>
+		<availability available="yes" storeId="PP28" preOrder="20"/>
+		<availability available="yes" storeId="PP29" preOrder="20"/>
+		<availability available="yes" storeId="PP30" preOrder="20"/>
+		<availability available="yes" storeId="PP31" preOrder="20"/>
+		<availability available="yes" storeId="PP32" preOrder="20"/>
+		<availability available="yes" storeId="PP33" preOrder="20"/>
+		<availability available="yes" storeId="PP34" preOrder="20"/>
+		<availability available="yes" storeId="PP35" preOrder="20"/>
+		<availability available="yes" storeId="PP36" preOrder="20"/>
+		<availability available="yes" storeId="PP38" preOrder="20"/>
+		<availability available="yes" storeId="PP39" preOrder="20"/>
+	</availabilities>
+	<cityprices>
+		<cityprice cityId="591010000">222222</cityprice>
+		<cityprice cityId="710000000">252222</cityprice>
+		<cityprice cityId="111010000">252222</cityprice>
+		<cityprice cityId="551010000">252222</cityprice>
+		<cityprice cityId="111810000">252222</cityprice>
+		<cityprice cityId="391010000">252222</cityprice>
+		<cityprice cityId="117020100">252222</cityprice>
+		<cityprice cityId="113220100">252222</cityprice>
+		<cityprice cityId="116651100">252222</cityprice>
+		<cityprice cityId="351010000">262222</cityprice>
+		<cityprice cityId="352410000">262222</cityprice>
+		<cityprice cityId="750000000">272222</cityprice>
+		<cityprice cityId="471010000">272222</cityprice>
+		<cityprice cityId="231010000">272222</cityprice>
+		<cityprice cityId="471810000">272222</cityprice>
+		<cityprice cityId="151010000">272222</cityprice>
+		<cityprice cityId="271010000">272222</cityprice>
+		<cityprice cityId="511010000">272222</cityprice>
+		<cityprice cityId="431010000">272222</cityprice>
+		<cityprice cityId="316621100">272222</cityprice>
+		<cityprice cityId="311010000">272222</cityprice>
+		<cityprice cityId="191010000">272222</cityprice>
+		<cityprice cityId="512610000">272222</cityprice>
+		<cityprice cityId="631010000">272222</cityprice>
+		<cityprice cityId="632810000">272222</cityprice>
+		<cityprice cityId="632210000">272222</cityprice>
+		<cityprice cityId="552210000">272222</cityprice>
+		<cityprice cityId="351610000">272222</cityprice>
+		<cityprice cityId="273620100">292222</cityprice>
+		<cityprice cityId="551610000">292222</cityprice>
+		<cityprice cityId="153220100">292222</cityprice>
+		<cityprice cityId="433220100">292222</cityprice>
+		<cityprice cityId="391610000">292222</cityprice>
+		<cityprice cityId="633420100">292222</cityprice>
+		<cityprice cityId="634030100">292222</cityprice>
+		<cityprice cityId="394420100">292222</cityprice>
+		<cityprice cityId="316220100">292222</cityprice>
+		<cityprice cityId="352210000">292222</cityprice>
+	</cityprices>
+</offer>
+</offers>
